@@ -20,7 +20,7 @@ require (
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/stretchr/testify v1.9.0
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0
-	golang.org/x/crypto v0.21.0 // indirect
+	golang.org/x/crypto v0.22.0 // indirect
 	golang.org/x/image v0.15.0
 	golang.org/x/sys v0.19.0
 	golang.org/x/text v0.14.0
@@ -40,7 +40,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.1
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/exp v0.0.0-20240222234643-814bf88cf225
+	golang.org/x/exp v0.0.0-20240416160154-fe59bbe5cc7f
 	golang.org/x/mod v0.17.0
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -51,7 +51,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
 	github.com/imdario/mergo v0.3.16 // indirect
-	github.com/lufia/plan9stats v0.0.0-20240226150601-1dcf7310316a // indirect
+	github.com/lufia/plan9stats v0.0.0-20240408141607-282e7b5d6b74 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -84,12 +84,12 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/sahilm/fuzzy v0.1.1 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
-	github.com/shopspring/decimal v1.3.1 // indirect
+	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
-	github.com/zclconf/go-cty v1.14.3 // indirect
-	golang.org/x/sync v0.6.0 // indirect
-	golang.org/x/term v0.18.0 // indirect
-	golang.org/x/tools v0.19.0 // indirect
+	github.com/zclconf/go-cty v1.14.4 // indirect
+	golang.org/x/sync v0.7.0 // indirect
+	golang.org/x/term v0.19.0 // indirect
+	golang.org/x/tools v0.20.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
 )
 

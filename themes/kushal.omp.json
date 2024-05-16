@@ -150,15 +150,15 @@
           "template": "\u256d\u2500",
           "type": "text"
         },
-        {
-          "foreground": "#F2D3B6",
-          "properties": {
-            "time_format": "<#D6DEEB>\ue641 15:04:05</> <#79DFE1>|</> \uf073 2 Jan, Monday"
-          },
-          "style": "plain",
-          "template": "{{ .CurrentDate | date .Format }} <#79DFE1>|</>",
-          "type": "time"
-        },
+        // {
+        //   "foreground": "#F2D3B6",
+        //   "properties": {
+        //     "time_format": "<#D6DEEB>\ue641 15:04:05</> <#79DFE1>|</> \uf073 2 Jan, Monday"
+        //   },
+        //   "style": "plain",
+        //   "template": "{{ .CurrentDate | date .Format }} <#79DFE1>|</>",
+        //   "type": "time"
+        // },
         {
           "foreground": "#B6D6F2",
           "leading_diamond": "<#00C7FC> \uf07b </><#B6D6F2> in </>",
